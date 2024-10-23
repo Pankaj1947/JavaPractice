@@ -1,4 +1,4 @@
-package com.masai;
+package Theory_Practice.method_with_Object_as_return_type;
 
 public class A {
 

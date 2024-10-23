@@ -1,5 +1,5 @@
 
-package com.masai;
+package Theory_Practice.method_with_Object_as_return_type;
 
 public class Demo {
 
@@ -25,8 +25,8 @@ public class Demo {
 
 }
 
-There are two classes: Demo and A. The Demo class has a method fun1 that takes a username and password as parameters. If the username is "admin" and 
-the password is "123", it prints a message and returns a new instance of the A class. If the credentials are incorrect, it returns null. In the 
-main method of Demo, an object of Demo is created, and fun1 is called with the credentials. If a valid object is returned, the funA method of 
-class A is called, which prints "Inside funA of A". Otherwise, it prints "Invalid username or password". This code is a simple example of how 
-objects are created and returned based on certain conditions, and how we can check for null to avoid calling methods on a null reference.
+// There are two classes: Demo and A. The Demo class has a method fun1 that takes a username and password as parameters. If the username is "admin" and 
+// the password is "123", it prints a message and returns a new instance of the A class. If the credentials are incorrect, it returns null. In the 
+// main method of Demo, an object of Demo is created, and fun1 is called with the credentials. If a valid object is returned, the funA method of 
+// class A is called, which prints "Inside funA of A". Otherwise, it prints "Invalid username or password". This code is a simple example of how 
+// objects are created and returned based on certain conditions, and how we can check for null to avoid calling methods on a null reference.
