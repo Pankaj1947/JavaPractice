@@ -1,4 +1,4 @@
-package MethodOverloadinginJavawithDifferentObjectTypes;
+package AssignmentsPractice.A1MethodOverloadinginJavawithDifferentObjectType;
 
 public class Main {
 	public static void main(String[] args) {

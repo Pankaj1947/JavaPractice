@@ -1,4 +1,4 @@
-package MethodOverloadinginJavawithDifferentObjectTypes;
+package AssignmentsPractice.A1MethodOverloadinginJavawithDifferentObjectType;
 
 class Rectangle {
     int length;

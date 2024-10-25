@@ -1,4 +1,4 @@
-package DSA_in_Java;
+package TheoryPractice;
 
 class Circle {
 	int radius;

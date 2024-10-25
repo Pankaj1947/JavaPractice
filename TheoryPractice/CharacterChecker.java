@@ -7,7 +7,7 @@
 // third time by supplying an invalid character
 
 
-package DSA_in_Java;
+package TheoryPractice;
 
 public class CharacterChecker {
 

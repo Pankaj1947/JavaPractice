@@ -1,4 +1,4 @@
-package MethodOverloadinginJavawithDifferentObjectTypes;
+package AssignmentsPractice.A1MethodOverloadinginJavawithDifferentObjectType;
 
 class Shapes {
     public void area(Circle circle) {
